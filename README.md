@@ -58,21 +58,21 @@ Let's connect and explore the future of web development together! 🌟
 |---------|-----------|-----------|-------------|-------------|
 | **Food Ordering Website** | [🔗 View Live](https://online-food-ordering-website-by-rohit.netlify.app/) | `React.js` `Context API` `Netlify` | **Username:** admin<br>**Password:** admin123 | Complete food ordering platform |
 | **Blog Website** | [🔗 View Live](https://blog-website-by-rohit.netlify.app/) | `React.js` `Tailwind CSS` `Redux Toolkit` `React Hook Form` `Appwrite` `Netlify` | **Email:** test@gmail.com<br>**Password:** test@1234 | Full-featured blog platform |
-
+<!--
 ### ⚡ API Integration Projects
 | Project | Live Demo | Tech Stack | Description |
 |---------|-----------|-----------|-------------|
 | **Products Display & Pagination** | [🔗 View Live](https://api-handling-and-pagination-by-rohit.netlify.app/) | `React.js` `Axios` `Fetch API` | API data handling with pagination |
 | **CRUD Operations** | [🔗 View Live](https://api-crud-operartion-by-rohit.netlify.app/) | `React.js` `Axios` `Fetch API` | Complete CRUD functionality |
 
+
 ### 📱 JavaScript Applications
 | Project | Live Demo | Tech Stack | Description |
 |---------|-----------|-----------|-------------|
 | **Dictionary Application** | [🔗 View Live](#) | `HTML` `CSS` `JavaScript` `Free Dictionary API` | Word lookup with definitions and pronunciation |
 | **Weather Application** | [🔗 View Live](#) | `HTML` `Tailwind CSS` `JavaScript` `OpenWeatherMap API` | Real-time weather information app |
-
 ---
-
+ -->
 ## 🌱 What I'm Currently Learning
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
